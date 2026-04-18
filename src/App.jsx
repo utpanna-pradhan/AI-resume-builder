@@ -5,6 +5,8 @@ import Feature from './components/Feature'
 import CTA from './components/CTA'
 import Pricing from './components/Pricing'
 import Faq from './components/Faq'
+import Contact from './components/Contact'
+import Footer from './components/Footer'
 
 
 function App() {
@@ -16,6 +18,8 @@ function App() {
       <CTA />
       <Pricing />
       <Faq />
+      <Contact />
+      <Footer />
     </div>
   )
 }

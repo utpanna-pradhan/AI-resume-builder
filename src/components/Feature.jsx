@@ -31,7 +31,7 @@ function Feature() {
             <div className='p-6 bg-white rounded-xl shadow gover:shadow-lg transition'>
                 <h3 className='text-xl font-semibold'>Customizable</h3>
                 <p className='text-gray-600 mt-2'>Edit and personalize easily .</p>
-            </div>ƒ
+            </div>
 
         </div>
 </motion.div>

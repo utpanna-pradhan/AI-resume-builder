@@ -4,7 +4,7 @@ import { useState } from 'react'
 function Pricing() {
     const [isYearly,setIsYearly] = useState(false);
   return (
-<section className='max-w-6xl mx-auto px-6 py-20 text-center'>
+<section className='max-w-6xl mx-auto px-6 py-20 text-center' id='pricing'>
     <h2 className='text-3xl font-bold'>Pricing</h2>
     {/* toggle */}
     <div className='mt-6 flex justify-center items-center gap-4'>
